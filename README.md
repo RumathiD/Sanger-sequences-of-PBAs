@@ -1,8 +1,8 @@
 # Microbiological and Antinutritional Risks in Plant-Based Alternatives on the Swedish Market
-Sanger sequences from plant-based alternatives in Sweden
-This repository contains Sanger sequencing data generated for the manuscript:
 
-Microbiological and Antinutritional Risks in Plant-Based Alternatives on the Swedish Market
+This repository contains Next Generation and Sanger sequencing data generated for the manuscript:
+
+Sanger sequences from plant-based alternatives in Sweden
 [manuscript_fastafiles.txt](https://github.com/user-attachments/files/28949322/manuscript_fastafiles.txt)
 
 ## Data description
@@ -2276,3 +2276,56 @@ GGGGGCCCGCACAAGCGGTGGAGCATGTGGTTTAATTCGAAGCAACGCGAAGAACCTTACCAGGCCTTGACATCCAATGA
 ACTTTCCAGAGATGGATTGGTGCCTTCGGGAACATTGAGACAGGTGCTGCATGGCTGTCGTCAGCTCGTGTCGTGAGATG
 TTGGGTTAAGTCCCGTAACGAGCGCAACCCTTGTCCTTAGTTACCAGCACGTAATGGTGGGCACTCTAAGGAGACTGCCG
 GTGACAAACCGGAGGAAGGTGGGGATGACGTCAAGTCATCATGGGCCCTTACGGCCTGGGCT
+
+Next Generation sequences from plant-based alternatives in Sweden
+
+[MA33_S95_L001_R1_001.fastq.gz](https://github.com/user-attachments/files/28950073/MA33_S95_L001_R1_001.fastq.gz)
+[MA30_S92_L001_R2_001.fastq.gz](https://github.com/user-attachments/files/28950067/MA30_S92_L001_R2_001.fastq.gz)
+[MA30_S92_L001_R1_001.fastq.gz](https://github.com/user-attachments/files/28950064/MA30_S92_L001_R1_001.fastq.gz)
+[MA29_S91_L001_R2_001.fastq.gz](https://github.com/user-attachments/files/28950062/MA29_S91_L001_R2_001.fastq.gz)
+[MA29_S91_L001_R1_001.fastq.gz](https://github.com/user-attachments/files/28950061/MA29_S91_L001_R1_001.fastq.gz)
+[MA28_S90_L001_R1_001.fastq.gz](https://github.com/user-attachments/files/28950060/MA28_S90_L001_R1_001.fastq.gz)
+[MA27_S89_L001_R2_001.fastq.gz](https://github.com/user-attachments/files/28950056/MA27_S89_L001_R2_001.fastq.gz)
+[MA27_S89_L001_R1_001.fastq.gz](https://github.com/user-attachments/files/28950054/MA27_S89_L001_R1_001.fastq.gz)
+[MA26_S88_L001_R2_001.fastq.gz](https://github.com/user-attachments/files/28950052/MA26_S88_L001_R2_001.fastq.gz)
+[MA26_S88_L001_R1_001.fastq.gz](https://github.com/user-attachments/files/28950048/MA26_S88_L001_R1_001.fastq.gz)
+[MA25_S87_L001_R2_001.fastq.gz](https://github.com/user-attachments/files/28950046/MA25_S87_L001_R2_001.fastq.gz)
+[MA25_S87_L001_R1_001.fastq.gz](https://github.com/user-attachments/files/28950044/MA25_S87_L001_R1_001.fastq.gz)
+[MA24_S86_L001_R2_001.fastq.gz](https://github.com/user-attachments/files/28950040/MA24_S86_L001_R2_001.fastq.gz)
+[MA24_S86_L001_R1_001.fastq.gz](https://github.com/user-attachments/files/28950036/MA24_S86_L001_R1_001.fastq.gz)
+[MA22_S84_L001_R2_001.fastq.gz](https://github.com/user-attachments/files/28950034/MA22_S84_L001_R2_001.fastq.gz)
+[MA22_S84_L001_R1_001.fastq.gz](https://github.com/user-attachments/files/28950032/MA22_S84_L001_R1_001.fastq.gz)
+[MA21_S83_L001_R2_001.fastq.gz](https://github.com/user-attachments/files/28950030/MA21_S83_L001_R2_001.fastq.gz)
+[MA21_S83_L001_R1_001.fastq.gz](https://github.com/user-attachments/files/28950028/MA21_S83_L001_R1_001.fastq.gz)
+[MA20_S82_L001_R2_001.fastq.gz](https://github.com/user-attachments/files/28950027/MA20_S82_L001_R2_001.fastq.gz)
+[MA20_S82_L001_R1_001.fastq.gz](https://github.com/user-attachments/files/28950018/MA20_S82_L001_R1_001.fastq.gz)
+[MA18_S81_L001_R2_001.fastq.gz](https://github.com/user-attachments/files/28950015/MA18_S81_L001_R2_001.fastq.gz)
+[MA18_S81_L001_R1_001.fastq.gz](https://github.com/user-attachments/files/28950013/MA18_S81_L001_R1_001.fastq.gz)
+[MA16_S80_L001_R2_001.fastq.gz](https://github.com/user-attachments/files/28950011/MA16_S80_L001_R2_001.fastq.gz)
+[MA16_S80_L001_R1_001.fastq.gz](https://github.com/user-attachments/files/28950010/MA16_S80_L001_R1_001.fastq.gz)
+[MA15_S79_L001_R2_001.fastq.gz](https://github.com/user-attachments/files/28950008/MA15_S79_L001_R2_001.fastq.gz)
+[MA15_S79_L001_R1_001.fastq.gz](https://github.com/user-attachments/files/28950007/MA15_S79_L001_R1_001.fastq.gz)
+[MA14_S78_L001_R1_001.fastq.gz](https://github.com/user-attachments/files/28950005/MA14_S78_L001_R1_001.fastq.gz)
+[MA12_S77_L001_R1_001.fastq.gz](https://github.com/user-attachments/files/28949996/MA12_S77_L001_R1_001.fastq.gz)
+[MA11_S76_L001_R2_001.fastq.gz](https://github.com/user-attachments/files/28949966/MA11_S76_L001_R2_001.fastq.gz)
+[MA11_S76_L001_R1_001.fastq.gz](https://github.com/user-attachments/files/28949965/MA11_S76_L001_R1_001.fastq.gz)
+[MA9_S74_L001_R2_001.fastq.gz](https://github.com/user-attachments/files/28949962/MA9_S74_L001_R2_001.fastq.gz)
+[MA9_S74_L001_R1_001.fastq.gz](https://github.com/user-attachments/files/28949959/MA9_S74_L001_R1_001.fastq.gz)
+[MA8_S73_L001_R2_001.fastq.gz](https://github.com/user-attachments/files/28949957/MA8_S73_L001_R2_001.fastq.gz)
+[MA8_S73_L001_R1_001.fastq.gz](https://github.com/user-attachments/files/28949955/MA8_S73_L001_R1_001.fastq.gz)
+[MA6_S71_L001_R1_001.fastq.gz](https://github.com/user-attachments/files/28949953/MA6_S71_L001_R1_001.fastq.gz)
+[MA3_S69_L001_R2_001.fastq.gz](https://github.com/user-attachments/files/28949950/MA3_S69_L001_R2_001.fastq.gz)
+[MA3_S69_L001_R1_001.fastq.gz](https://github.com/user-attachments/files/28949949/MA3_S69_L001_R1_001.fastq.gz)
+[MA2_S68_L001_R2_001.fastq.gz](https://github.com/user-attachments/files/28949948/MA2_S68_L001_R2_001.fastq.gz)
+[MA2_S68_L001_R1_001.fastq.gz](https://github.com/user-attachments/files/28949945/MA2_S68_L001_R1_001.fastq.gz)
+[DA38_S100_L001_R2_001.fastq.gz](https://github.com/user-attachments/files/28949931/DA38_S100_L001_R2_001.fastq.gz)
+[DA38_S100_L001_R1_001.fastq.gz](https://github.com/user-attachments/files/28949930/DA38_S100_L001_R1_001.fastq.gz)
+[DA36_S98_L001_R2_001.fastq.gz](https://github.com/user-attachments/files/28949920/DA36_S98_L001_R2_001.fastq.gz)
+[DA36_S98_L001_R1_001.fastq.gz](https://github.com/user-attachments/files/28949918/DA36_S98_L001_R1_001.fastq.gz)
+[DA34_S96_L001_R2_001.fastq.gz](https://github.com/user-attachments/files/28949912/DA34_S96_L001_R2_001.fastq.gz)
+[DA34_S96_L001_R1_001.fastq.gz](https://github.com/user-attachments/files/28949910/DA34_S96_L001_R1_001.fastq.gz)
+
+
+
+
+
